@@ -3,12 +3,17 @@ import g1 from '../assets/about-1.jpeg'
 import g2 from '../assets/about-2.jpeg'
 import g3 from '../assets/product-1.jpeg'
 import g4 from '../assets/product-2.jpeg'
+import g5 from '../assets/gallery1.jpeg'
+import g6 from '../assets/gallery2.jpeg'
 
 const images = [
   { id: 1, src: g1, alt: 'Showcase 1' },
   { id: 2, src: g2, alt: 'Showcase 2' },
   { id: 3, src: g3, alt: 'Ring closeup' },
   { id: 4, src: g4, alt: 'Necklace closeup' },
+  { id: 5, src: g5, alt: 'Showcase 3' },
+  { id: 6, src: g6, alt: 'Showcase 4' },
+
 ]
 
 export default function Gallery() {

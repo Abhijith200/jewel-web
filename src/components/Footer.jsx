@@ -57,7 +57,7 @@ export default function Footer() {
       <div className="border-t bg-white">
         <div className="container mx-auto px-6 py-4 text-sm text-gray-600 flex flex-col md:flex-row items-center justify-between">
           <div>© {new Date().getFullYear()} Naseema Jewellery. All rights reserved.</div>
-          <div className="mt-2 md:mt-0">Designed with ❤️</div>
+          <div className="mt-2 md:mt-0">Designed with Abhibruz</div>
         </div>
       </div>
     </footer>

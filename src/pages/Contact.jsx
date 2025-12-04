@@ -56,11 +56,11 @@ export default function Contact() {
                   <p className="text-gray-700 mt-1">+91 98765 43210</p>
                 </div>
 
-                <div className="mt-8 flex gap-4 text-gray-900">
+                {/* <div className="mt-8 flex gap-4 text-gray-900">
                   <a className="hover:text-naseema" href="https://www.instagram.com/naseemagold/?hl=en" aria-label="Facebook">FB</a>
                   <a className="hover:text-naseema" href="#" aria-label="Twitter">TW</a>
                   <a className="hover:text-naseema" href="https://www.facebook.com/naseemagoldanddiamonds/" aria-label="Instagram">IG</a>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
