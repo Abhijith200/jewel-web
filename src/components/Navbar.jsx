@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link, NavLink } from 'react-router-dom'
-import logo from '../assets/elvinbermin.png'
+import logo from '../assets/logo.png'
 
 function Logo() {
   return (
