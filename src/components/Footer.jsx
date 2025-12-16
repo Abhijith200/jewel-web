@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import logo from '../assets/logo.png'
+import logo from '../assets/logo3.png'
 
 function SocialIcon({ href, children }) {
   return (
@@ -24,18 +24,18 @@ export default function Footer() {
               <div className="text-sm text-gray-600">Fine Jewellery</div>
             </div> */}
           </div>
-          <p className="text-sm text-gray-600">Naseema Gold & Diamonds is a trusted jewellery brand built on purity, craftsmanship, and customer-first values.</p>
+          <p className="text-sm text-gray-600">AURUM & STONE Jewelry is a trusted jewellery brand built on purity, craftsmanship, and customer-first values.</p>
         </div>
 
         <div>
           <h4 className="font-medium mb-3">Location</h4>
-          <p className="text-sm text-gray-600">Up Hill, Malappuram,<br/>Kerala, India</p>
+          <p className="text-sm text-gray-600">Ernakulam,<br/>Kerala, India</p>
 
           <div className="mt-4">
             <h4 className="font-medium mb-2">Contact</h4>
             <p className="text-sm text-gray-600">
-              <a href="mailto:info@naseema.gold" className="hover:text-naseema">info@naseema.gold</a><br/>
-              <a href="tel:+919876543210" className="hover:text-naseema">+91 9495731223</a>
+              <a href="mailto:info@aurum-stone.jewel" className="hover:text-naseema">info@aurum-stone.jewel</a><br/>
+              <a href="tel:+911234567890" className="hover:text-naseema">+91 1234567890</a>
             </p>
           </div>
         </div>
@@ -68,7 +68,7 @@ export default function Footer() {
 
       <div className="border-t bg-white">
         <div className="container mx-auto px-6 py-4 text-sm text-gray-600 flex flex-col md:flex-row items-center justify-between">
-          <div>© {new Date().getFullYear()} Naseema Jewellery. All rights reserved.</div>
+          <div>© {new Date().getFullYear()} AURUM & STONE JEWELRY. All rights reserved.</div>
           <div className="mt-2 md:mt-0">Designed & Developed by Abhibruz</div>
         </div>
       </div>

@@ -45,15 +45,15 @@ export default function Contact() {
               <div>
                 <h3 className="text-sm text-gray-500 uppercase tracking-wide mb-2">Store hours</h3>
                 <p className="text-gray-700 leading-relaxed">
-                  Up Hill, Malappuram,<br />
+                  Ernakulam,<br />
                   Kerala, India<br />
                   Mon - Sat: 10:00 - 18:00
                 </p>
 
                 <div className="mt-6">
                   <h3 className="text-sm text-gray-500 uppercase tracking-wide mb-2">Contacts</h3>
-                  <p className="text-gray-700">info@naseema.gold</p>
-                  <p className="text-gray-700 mt-1">+91 94957 31223</p>
+                  <p className="text-gray-700">info@aurum-stone.jewel</p>
+                  <p className="text-gray-700 mt-1">+91 12345 67890</p>
                 </div>
 
                 {/* <div className="mt-8 flex gap-4 text-gray-900">
