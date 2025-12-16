@@ -5,7 +5,7 @@ import img2 from '../assets/about-2.jpeg'
 export default function About() {
   return (
     <section className="container mx-auto px-6 py-12">
-      <h1 className="text-3xl font-serif text-naseema mb-6 text-center">About Aurum &amp; Stone Jewels</h1>
+      <h1 className="text-3xl font-serif text-naseema mb-6 text-center">About AURUM &amp; STONE JEWELS</h1>
 
       <div className="max-w-3xl mx-auto text-gray-700 space-y-6">
         <p>
@@ -13,7 +13,7 @@ export default function About() {
         </p>
 
         <p>
-          We believe jewellery is more than an ornament — it is a symbol of love, tradition, and celebration. Every design at Naseema Gold &amp; Diamonds is crafted with precision, authenticity, and careful attention to detail. Our goal is to provide every customer with a memorable experience marked by transparency, trust, and exceptional service.
+          We believe jewellery is more than an ornament — it is a symbol of love, tradition, and celebration. Every design at Aurum &amp; Stone Jewels is crafted with precision, authenticity, and careful attention to detail. Our goal is to provide every customer with a memorable experience marked by transparency, trust, and exceptional service.
         </p>
 
         {/* <p>

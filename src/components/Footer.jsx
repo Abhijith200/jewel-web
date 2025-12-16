@@ -24,7 +24,7 @@ export default function Footer() {
               <div className="text-sm text-gray-600">Fine Jewellery</div>
             </div> */}
           </div>
-          <p className="text-sm text-gray-600">AURUM & STONE Jewelry is a trusted jewellery brand built on purity, craftsmanship, and customer-first values.</p>
+          <p className="text-sm text-gray-600">AURUM & STONE JEWELS is a trusted jewellery brand built on purity, craftsmanship, and customer-first values.</p>
         </div>
 
         <div>
@@ -68,7 +68,7 @@ export default function Footer() {
 
       <div className="border-t bg-white">
         <div className="container mx-auto px-6 py-4 text-sm text-gray-600 flex flex-col md:flex-row items-center justify-between">
-          <div>© {new Date().getFullYear()} AURUM & STONE JEWELRY. All rights reserved.</div>
+          <div>© {new Date().getFullYear()} AURUM & STONE JEWELS. All rights reserved.</div>
           <div className="mt-2 md:mt-0">Designed & Developed by Abhibruz</div>
         </div>
       </div>
