@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import logo from '../assets/logo.png'
+import logo from '../assets/elvinbermin.png'
 
 function SocialIcon({ href, children }) {
   return (
@@ -24,7 +24,7 @@ export default function Footer() {
               <div className="text-sm text-gray-600">Fine Jewellery</div>
             </div> */}
           </div>
-          <p className="text-sm text-gray-600">Handcrafted in India. Designed with love and care to become your family heirlooms.</p>
+          <p className="text-sm text-gray-600">Naseema Gold & Diamonds is a trusted jewellery brand built on purity, craftsmanship, and customer-first values.</p>
         </div>
 
         <div>
@@ -35,7 +35,7 @@ export default function Footer() {
             <h4 className="font-medium mb-2">Contact</h4>
             <p className="text-sm text-gray-600">
               <a href="mailto:info@naseema.gold" className="hover:text-naseema">info@naseema.gold</a><br/>
-              <a href="tel:+919876543210" className="hover:text-naseema">+91 98765 43210</a>
+              <a href="tel:+919876543210" className="hover:text-naseema">+91 9495731223</a>
             </p>
           </div>
         </div>
@@ -61,7 +61,7 @@ export default function Footer() {
           <h4 className="font-medium mb-2">Newsletter</h4>
           <form className="flex gap-2">
             <input className="px-3 py-2 border rounded w-full" placeholder="Your email" />
-            <button className="px-4 py-2 bg-naseema text-white rounded">Subscribe</button>
+            <button className="px-4 py-2 bg-naseema border text-black rounded">Subscribe</button>
           </form>
         </div>
       </div>
@@ -69,7 +69,7 @@ export default function Footer() {
       <div className="border-t bg-white">
         <div className="container mx-auto px-6 py-4 text-sm text-gray-600 flex flex-col md:flex-row items-center justify-between">
           <div>© {new Date().getFullYear()} Naseema Jewellery. All rights reserved.</div>
-          <div className="mt-2 md:mt-0">Designed with Abhibruz</div>
+          <div className="mt-2 md:mt-0">Designed & Developed by Abhibruz</div>
         </div>
       </div>
     </footer>

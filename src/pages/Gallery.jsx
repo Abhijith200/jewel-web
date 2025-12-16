@@ -13,6 +13,8 @@ const images = [
   { id: 4, src: g4, alt: 'Necklace closeup' },
   { id: 5, src: g5, alt: 'Showcase 3' },
   { id: 6, src: g6, alt: 'Showcase 4' },
+  { id: 3, src: g3, alt: 'Showcase 4' },
+  
 
 ]
 

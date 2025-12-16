@@ -1,10 +1,3 @@
-// Save the four images into: src/assets/product-1.jpg .. src/assets/product-4.jpg
-// Mapping used below (so you know which image to save as which file):
-// - product-1.jpg -> Necklace image (your Image #2)
-// - product-2.jpg -> Earrings image (your Image #4)
-// - product-3.jpg -> Bangles image (your Image #1)
-// - product-4.jpg -> Ring image (your Image #3)
-
 import img1 from '../assets/product-2.jpeg'
 import img2 from '../assets/product-4.jpeg'
 import img3 from '../assets/product-3.jpeg'
