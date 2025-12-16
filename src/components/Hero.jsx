@@ -7,7 +7,7 @@ export default function Hero() {
     <section className="bg-gradient-to-b from-white to-yellow-50">
       <div className="container mx-auto px-6 py-16 grid md:grid-cols-2 gap-8 items-center">
         <div>
-          <h1 className="text-4xl md:text-5xl font-serif text-naseema mb-4">Naseema Gold & <span>Diamonds</span> </h1>
+          <h1 className="text-4xl md:text-5xl font-serif text-naseema mb-4">AURUM & STONE <span>JEWELS</span> </h1>
           <p className="text-gray-700 max-w-xl mb-6">Hand-crafted heirloom jewelry inspired by tradition and modern aesthetics. Explore curated collections in gold, diamonds and more.</p>
           <Link to="/products" className="inline-block bg-naseema text-[#000] px-6 py-3 rounded shadow hover:opacity-95">Shop Collection</Link>
         </div>
